@@ -1,5 +1,9 @@
 ## Hi there 👋
+# Please start here
 
+Welcome, and thanks for choosing our product.
+
+If you want to dive right in, try our [quick start tutorial](./).
 <!--
 **SJB0703/SJB0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
